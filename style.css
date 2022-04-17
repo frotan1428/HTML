@@ -1,32 +1,12 @@
-h1{
-    color:red; 
-    font-size: 20px; 
-    font-family: cursive; 
-    background-color: yellow
-}
-h2{
-    color:#666d1e; 
-    font-size: 1.5em; 
-    text-align:center
-}
-h4{
-    color: gold;
-    font-size:45px;
-    font-family:courier;
-    background-color:lightblue;
-    text-align:right
-}
-.my-style{
-    color: gold;
-    font-size:45px;
-    font-family:courier;
-    background-color:lightblue;
-    text-align:right
-}
-#pass{
-    color: #f314ca;
-    font-size:20;
-    font-family:courier;
-    background-color:lightblue;
-    text-align:right
+.image{
+    margin-top: 100px;
+    margin-bottom: 100px; 
+   margin-right: 150px;
+   margin-left: 80px;
+
+   padding-top: 50px;
+  padding-right: 30px; 
+  padding-bottom: 50px; 
+  padding-left: 80px;
+ 
 }
